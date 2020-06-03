@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>320199924627-prbrs1kmr3gsq2sc4qfeb9q454k8j36o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.320199924627-prbrs1kmr3gsq2sc4qfeb9q454k8j36o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGOjnqhwGMeAX7eva2SMlk9wv-wqM2tmo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>320199924627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>rogerVazquez.SyncHealth-alpha</string>
+	<key>PROJECT_ID</key>
+	<string>stress-id</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stress-id.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:320199924627:ios:8143bda174bffce1542666</string>
+	<key>DATABASE_URL</key>
+	<string>https://stress-id.firebaseio.com</string>
+</dict>
+</plist>
